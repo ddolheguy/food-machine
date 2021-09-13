@@ -1,12 +1,16 @@
-# Mess Test
+# Mess Test - Food Machine
 
-This project contains a very basic implementation of code which allows a user to add / remove food from a redux store.  The page also displays the number of seconds the user is viewing the page.
+This project contains a very basic implementation of code which allows a user to add food from a redux store and simulate through the UI an API call (loading events).  The page also displays the number of seconds the user is viewing the page.
 
 ## What to do.
 
 So we had an externaly company build a piece page but we need your help to make sure it's of production quality.  We don't need you to actually fix their mistakes, we just want a code review and for you to mark up as many issues / problems with the code.
 
 We believe in code quality so this isn't about the product but rather your take on what you would expect if someone submitted this code.
+
+## Install dependencies
+
+### `yarn` or `npm install`
 
 ## To run the project
 
