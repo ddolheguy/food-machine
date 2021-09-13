@@ -4,7 +4,7 @@ This project contains a very basic implementation of code which allows a user to
 
 ## What to do.
 
-So we had an externaly company build a piece page but we need your help to make sure it's of production quality.  We don't need you to actually fix their mistakes, we just want a code review and for you to mark up as many issues / problems with the code.
+So we had an externaly company build a piece of code for us, but we need your help to make sure it's of production quality.  We don't need you to actually fix their mistakes, we just would like a code review and for you to mark up as many issues / problems with the code as you see.
 
 We believe in code quality so this isn't about the product but rather your take on what you would expect if someone submitted this code.
 
